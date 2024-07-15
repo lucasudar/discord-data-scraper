@@ -1,0 +1,8 @@
+# Ignore .env file containing credentials, API keys, tokens, passwords, etc.
+.env
+
+#files
+user_message_counts.csv
+
+# environment folder
+discord_bot
