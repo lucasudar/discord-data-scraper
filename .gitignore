@@ -3,6 +3,9 @@
 
 #files
 user_message_counts.csv
+user_invite_codes.csv
+user_combined_data.csv
+users.json
 
 # environment folder
 discord_bot
