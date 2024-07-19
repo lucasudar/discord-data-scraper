@@ -6,7 +6,7 @@ This bot tracks the number of messages each user sends in your Discord server an
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/discord-bot.git
+    git clone https://github.com/lucasudar/discord-data-scraper
     cd discord-bot
     ```
 
